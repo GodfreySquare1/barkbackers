@@ -1,0 +1,62 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<style>
+</head>
+
+
+#wpforms-104 .wpforms-form {
+    background-color: #eee !important;
+    padding: 20px 15px !important;
+    border-radius: 15px !important;
+  	font-family: work-sans, sans-serif;
+  	
+} 
+
+#wpforms-104 .wpforms-form.p {
+	color: #666 !important;
+}  
+
+.wpforms-form input[type=submit], 
+.wpforms-form button[type=submit] {
+    background-color: #80DBCB !important; 
+  	border-radius: 20px !important;
+  	color: #FFFFFF !important;
+} 
+
+.wpforms-form input[type=submit]:hover, 
+.wpforms-form input[type=submit]:active, 
+.wpforms-form button[type=submit]:hover, 
+.wpforms-form button[type=submit]:active, 
+.wpforms-form .wpforms-page-button:hover, 
+.wpforms-form .wpforms-page-button:active {
+    background-color: white !important;
+  	color: black !important;
+}
+
+
+.wpforms-field-label {
+    color: #666 !important; 
+  	font-family: monospace !important;
+  	font-size: 16px !important
+} 
+
+.wpforms-field-sublabel.after{
+  color: grey !important; 
+  font-family: monospace !important;
+} 
+
+</style>
+<!-- end Simple Custom CSS and JS -->

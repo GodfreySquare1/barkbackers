@@ -1,0 +1,105 @@
+/* 
+Theme Name: barkbackers
+Author: Godfrey Cox (Square 1 Group)
+Description: Bark Backers Custom Theme.
+Version: 1.0.0
+*/ 
+
+body {
+    padding: 0;
+    margin: 0;
+} 
+
+.elementor-section.elementor-inner-section.elementor-element.elementor-element-23e0d89.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default{
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+} 
+
+.headerfull {
+    margin: 0;
+    padding: 0;
+}
+
+/* This is for the Title of the slider*/
+h3.wpmtst-testimonial-heading.testimonial-heading {
+    color: rgb(255, 255, 255) !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+} 
+ 
+/* This is for the slider button next */
+.strong-view.controls-style-buttons2 .wpmslider-start, .strong-view.controls-style-buttons2 .wpmslider-stop, .strong-view.controls-style-buttons2 .wpmslider-next, .strong-view.controls-style-buttons2.wpmslider-prev {
+    background-color: #FFFFFF !important;
+}  
+
+/* This is for the slider button previous */
+.strong-view.controls-style-buttons2 .wpmslider-start, .strong-view.controls-style-buttons2 .wpmslider-stop, .strong-view.controls-style-buttons2 .wpmslider-next, .strong-view.controls-style-buttons2 .wpmslider-prev {
+    background-color: #FFFFFF !important;
+}
+
+/* This is for the qoutes style*/
+.strong-view.wpmtst-modern .wpmtst-testimonial-content:before, .strong-view.wpmtst-modern .wpmtst-testimonial-content:after {
+    background-color: #FFFFFF !important;
+} 
+
+/* This is for the name text */
+.wpmtst-testimonial-field.testimonial-field.testimonial-name {
+    color: #FFFFFF !important;
+    font-weight: 500 !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+} 
+
+/* This is for the company name text */
+.wpmtst-testimonial-field.testimonial-field.testimonial-company {
+    color: rgb(0, 0, 0) !important;
+    font-weight: 500 !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+/* This is for the stars */
+.strong-rating span.star:before {
+    background-color: #FFFFFF !important;
+} 
+/* This is for the excerpt */
+.strong-view.wpmtst-modern .wpmtst-testimonial-content p:first-of-type {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #FFFFFF !important; 
+    margin-bottom: 1px !important;
+    font-size: 15px;
+}  
+
+
+.strong-view.controls-type-sides:not(.rtl) .wpmslider-next{
+    right: 50px !important;
+} 
+
+.strong-view.wpmtst-modern .wpmtst-testimonial-inner > *:not(:nth-last-child(2)):not(:last-child) {
+    margin-top: 15px !important;
+} 
+
+/* Background Color for testimonials*/
+.strong-view.wpmtst-modern .wpmtst-testimonial-inner{
+    border-radius: 50px !important;
+} 
+
+/* Star Spacing */
+.strong-rating-wrapper.in-view {
+    margin-top: 20px !important;
+}
+
+.strong-view.wpmtst-modern .wpmtst-testimonial-image img {
+    border-radius: 50% !important;
+    border: 5px solid skyblue !important;
+} 
+
+.strong-view.controls-style-buttons2:not(.rtl) .wpmslider-next:before {
+    background-color: skyblue !important;
+} 
+
+.strong-view.controls-style-buttons2:not(.rtl) .wpmslider-prev:before {
+    background-color: skyblue !important;
+} 
+
+.wpmslider-next {
+    right: 50px !important;
+}
